@@ -3119,9 +3119,10 @@ html.modal-active, body.modal-active {
 
 .banner-section {
     position: relative;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 225px;
+    overflow: hidden;
 }
 canvas {
   display: block;
