@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "html": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "4226da4aa3b024a1229a37ce6863b429b8cdfbde5aa13769910beb830ac7fd3f"
+    }
+  }
+}
